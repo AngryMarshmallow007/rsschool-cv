@@ -1,6 +1,6 @@
 ---
 
-## Full Name: 
+Full Name: 
 
 Olga Ilina
 
