@@ -1,13 +1,14 @@
----
-# Olga Ilina
+
+## Full Name: Olga Ilina
+
 ---
 
 ## Contact Information 
 ---
 
-**Address** St. Petersburg, Russia
-**GitHub**  [AngryMarshmallow007](https://github.com/AngryMarshmallow007) 
-**Discord** GtShini#1542
+- **Address** St. Petersburg, Russia
+- **GitHub**  [AngryMarshmallow007](https://github.com/AngryMarshmallow007) 
+- **Discord** GtShini#1542
 
 ---
 
