@@ -1,10 +1,10 @@
+---
 
 ## Full Name: Olga Ilina
 
 ---
 
 ## Contact Information 
----
 
  **Address** - St. Petersburg, Russia
  **GitHub**  - [AngryMarshmallow007](https://github.com/AngryMarshmallow007) 
@@ -51,10 +51,16 @@ Saint-Petersburg State University of Aerospace Instrumentation
 Bachelor of Computer Science (BCompSc), Computer science
 2014-2019
 
+---
+
+
 ### Courses
 
 - HTML Academy 
 - Front-End Engineer on [CodeCademy](https://www.codecademy.com/) *in progress*
+
+---
+
 
 ### Languages
 
