@@ -47,7 +47,7 @@ $('.quantity-button').on('click', function(){
 
 ---
 
-### Aducation
+### Education
 
 Saint-Petersburg State University of Aerospace Instrumentation 
 Bachelor of Computer Science (BCompSc), Computer science
@@ -68,7 +68,7 @@ Bachelor of Computer Science (BCompSc), Computer science
 
 - English Upper-intermediate-Advanced (according to the online test at [EF SET](https://www.efset.org/)
 
-![English Test](rsschool-cv/eng.png)
+![English Test](rsschool-cv/images/eng.png)
 
 - Russian native
 
