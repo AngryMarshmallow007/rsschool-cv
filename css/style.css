@@ -10,6 +10,7 @@ a,
 li{
     text-decoration: none;
     color: black;
+    list-style: none;
 }
 
 h2{
@@ -39,7 +40,7 @@ section{
 }
 
 .header{
-    width: 1250px;
+    max-width: 1250px;
     margin: 0 auto;
 }
 
@@ -56,8 +57,18 @@ section{
     justify-content: space-around;
 }
 
+.skills__list,
+.contact__list{
+    margin: 0;
+    padding: 0;
+}
+
 .skills__item img{
     padding-top: 5px;
+}
+
+.contact__list{
+    padding-bottom: 15px;
 }
 
 .footer__wrapper{
@@ -71,3 +82,87 @@ section{
 .footer img{
     height: 80px;
 }
+
+.footer__date-mini{
+    display: none;
+}
+
+
+@media (max-width: 1100px) {
+    .education__item,
+    .skills__item{
+        margin-right: 15px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 840px) {
+    .education__items,
+    .skills__items{
+        flex-wrap: wrap;
+    }
+
+    .education__item,
+    .skills__item{
+        width: 350px;
+    }
+
+    .footer img{
+        max-height: 40px;
+    }
+}
+
+@media (max-width: 800px){
+    .header__wrapper{
+     flex-wrap: wrap;
+    }
+
+    h1{
+        font-size: 28px;
+    }
+
+    .title__occupation{
+        padding-top: 0;
+    }
+
+    .header__image{
+        max-height: 250px;
+    }
+}
+
+
+@media (max-width: 650px) {
+    .footer__date{
+        display: none;
+
+    }
+
+    .footer__date-mini{
+        display: block;
+    }
+
+    .footer__wrapper{
+        max-height: 50px;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+@media (max-width: 450px){
+    body{
+        font-size: 17px;
+    }
+
+    .title__occupation{
+       font-size: 20px;
+    }
+
+    .header__image{
+        max-height: 200px;
+    }
+
+    .skills__image{
+        max-height: 250px;
+    }
+}
+
